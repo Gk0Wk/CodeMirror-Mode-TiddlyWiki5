@@ -1,5 +1,9 @@
 # CodeMirror-Mode-TiddlyWiki5
 
+# **This project is deprecated**, the new repo is [here](https://github.com/Gk0Wk/TW5-CodeMirror-Enhanced).
+
+# **这是一个旧项目，不再更新**, 新的项目工程在[这里](https://github.com/Gk0Wk/TW5-CodeMirror-Enhanced).
+
 Adds Syntax Highlighting for TiddlyWiki5 tiddlers (`text/vnd.tiddlywiki`) to the CodeMirror, along with some other useful editor addon (wikilink hint, macro hint, etc.). Now is under development.
 
 为 TiddlyWiki 的 CodeMirror 编辑器添加 TiddlyWiki5(`text/vnd.tiddlywiki`)语法高亮，同时还有其他有用的编辑器扩展(如 Wiki 链接自动提示、宏提示等)，以及可以打开的链接。现在正在开发中。
