@@ -1,5 +1,7 @@
 # CodeMirror-Mode-TiddlyWiki5
 
+# **This project is deprecated**, the new repo is [here](https://github.com/Gk0Wk/TW5-CodeMirror-Enhanced).
+
 Adds Syntax Highlighting for TiddlyWiki5 tiddlers (`text/vnd.tiddlywiki`) to the CodeMirror, along with some other useful editor addon (wikilink hint, macro hint, etc.), and clickable links. Now is under development.
 
 [> 中文 README <](https://github.com/Gk0Wk/CodeMirror-Mode-TiddlyWiki5/blob/main/README.md)
